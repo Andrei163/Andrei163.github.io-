@@ -50,7 +50,7 @@ function setClock(id, starttime) {
 setClock('timer');
 
 
-let deadline = '2019-10-17';
+let deadline = '2019-12-28';
 
 function getTimeRemaining(endtime) {
     let n = Date.parse(endtime) - Date.parse(new Date()),
