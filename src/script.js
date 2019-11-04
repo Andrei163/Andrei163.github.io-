@@ -1,4 +1,4 @@
-let starttimer = '2019-09-02';
+let starttimer = '2019-11-04';
 
 function getTimeStart(starttime) {
     let t = (Date.parse(new Date())-Date.parse(starttimer)),
